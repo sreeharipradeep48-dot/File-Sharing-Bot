@@ -95,8 +95,8 @@ def LOGGER(name: str) -> logging.Logger:
 
 
 
-# Jishu Developer 
+# Sreehari Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
+# Telegram Channel @Trixel_Movies
 # Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Developer @Sreehari
