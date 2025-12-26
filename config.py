@@ -17,6 +17,10 @@ DB_NAME = os.environ.get("DB_NAME", "madflixbotz")
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003113615775"))
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1003113615775"))
+INSTAGRAM_URL = os.environ.get(
+    "INSTAGRAM_URL",
+    "https://www.instagram.com/sreehari_._pradeep?igsh=YWMzMzRzZWx2dWFy"
+)
 
 
 FILE_AUTO_DELETE = int(os.getenv("FILE_AUTO_DELETE", "600")) # auto delete in seconds
